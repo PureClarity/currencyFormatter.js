@@ -107,7 +107,7 @@ OSREC.CurrencyFormatter = {
 		MRO: 'UM',
 		MRU: 'UM',
 		MUR: 'Rs',
-		MVR: 'Rf',
+		MVR: "Rf",
 		MWK: 'MK',
 		MXN: '$',
 		MYR: 'RM',
